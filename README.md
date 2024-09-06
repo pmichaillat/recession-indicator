@@ -18,10 +18,10 @@ The raw data used to produce the results in the paper are stored as CSV files. T
 	+ Source: [Barnichon (2010)](https://docs.google.com/spreadsheets/d/1fkMinSHkjTL99-bLZYFldQ8rHtgh8lxd)
 + `HistoricalSeries_JME_2020January.csv` – US unemployment and vacancy rates, 1890–2017
 	+ Source: [Petrosky-Nadeau, Zhang (2021)](https://docs.google.com/spreadsheets/d/1Ym0zkHZtIvb73zjLzL2cz_P5lXrulzFgvZpA5ZYyElI)
-+ `JTSJOL.csv` – Job openings in the United States, 2001–2024
++ `JTSJOL.csv` – US Job openings, 2001–2024
 	+ Source: [US Bureau of Labor Statistics (2024)](https://fred.stlouisfed.org/series/JTSJOL)
-+ `UNRATE.csv` – US unemployment (U3) rate, 1948–2024
-	+ Source: [US Bureau of Labor Statistics (2024)](https://fred.stlouisfed.org/series/UNRATE)
++ `UNEMPLOY.csv` – US unemployment level, 1948–2024
+	+ Source: [US Bureau of Labor Statistics (2024)](https://fred.stlouisfed.org/series/UNEMPLOY)
 
 ## License
 
