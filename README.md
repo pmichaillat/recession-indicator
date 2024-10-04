@@ -83,3 +83,7 @@ The results were obtained using MATLAB R2024a on an Apple Silicon Mac running ma
 ## License
 
 The content of this repository is licensed under the terms of the MIT License.
+
+## Related code
+
++ [Python version of this code](https://github.com/fatalfeel/new_sahm_rule/tree/main/pysource) – Written by Jesse Stone.
